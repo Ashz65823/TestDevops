@@ -1,0 +1,50 @@
+1  whoami
+    2  whoami
+    3  pwd
+    4  date
+    5  cal
+    6  clear
+    7  touch f1.txt
+    8  ls
+    9  touch f2.txt
+   10  ls
+   11  touch f3.txt f4.txt
+   12  ls
+   13  cat > hello.txt
+   14  ls
+   15  cat hello.txt
+   16  cat > hello.txt
+   17  ls
+   18  cat hello.txt
+   19  cat >>hello.txt
+   20  cat hello.txt
+   21  cat >>f1.txt
+   22  cat f1.txt
+   23  ls
+   24  cat >>f1.txt
+   25  cat f1.txt
+   26  mkdir linuxsamp
+   27  ls
+   28  cd linuxsamp
+   29  ls..
+   30  cd..
+   31  cd.
+   32  cd-
+   33  clear
+   34  cd..
+   35  ls
+   36  pwd
+   37  cd ubuntu
+   38  cd/home/ubuntu
+   39  cd~
+   40  cdp
+   41  cd
+   42  pwd
+   43  clear
+   44  ls
+   45  rm f2.txt
+   46  ls
+   47  rmdir
+   48  rmdir linuxsamp
+   49  ls
+   50  history
